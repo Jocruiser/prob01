@@ -39,7 +39,7 @@ std::cin >> your_name;
 
 
 //Display MadLib story
-std::cout << "Dear " << name << "\n"
+std::cout << "Dear " << name << ",\n"
 	<< "I am " << emotion
 	<< " that I was not able to complete my homework on time. My pet "
 	<< animal << " ate my textbook, and I was only able to retrieve "
